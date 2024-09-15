@@ -1,2 +1,5 @@
 # puggos_world_shared
-Shared classes between Puggos World SDK and Game
+
+Shared classes between Puggos World SDK and Game.
+
+NERDS may edit.
