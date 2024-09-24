@@ -1,0 +1,12 @@
+class_name Types
+
+## Types of Emotes. 
+## THOUGHT is an emote seen only by the player.
+## COMMUNICATION is an emote seen by all players.
+enum EmoteType{
+	NONE,
+	THOUGHT,
+	URGENT_THOUGHT,
+	COMMUNICATION,
+	URGENT_COMMUNICATION,
+}
