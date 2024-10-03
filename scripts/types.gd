@@ -11,9 +11,10 @@ enum EmoteType{
 	URGENT_COMMUNICATION,
 }
 enum ModularStructureType{
+	NONE,
 	FLOOR,
 	WALL_1,
 	WALL_2,
 	PILLAR,
-	CENTER_PART,
+	INTERIOR_MODULE,
 }
