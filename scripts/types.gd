@@ -10,3 +10,10 @@ enum EmoteType{
 	COMMUNICATION,
 	URGENT_COMMUNICATION,
 }
+enum ModularStructureType{
+	FLOOR,
+	WALL_1,
+	WALL_2,
+	PILLAR,
+	CENTER_PART,
+}
