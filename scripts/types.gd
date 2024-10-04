@@ -18,3 +18,15 @@ enum ModularStructureType{
 	PILLAR,
 	INTERIOR_MODULE,
 }
+
+enum CompassDirection{
+	NONE,
+	NORTH,
+	NORTH_EAST,
+	EAST,
+	SOUTH_EAST,
+	SOUTH,
+	SOUTH_WEST,
+	WEST,
+	NORTH_WEST,
+}
