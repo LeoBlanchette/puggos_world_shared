@@ -10,6 +10,7 @@ enum EmoteType{
 	COMMUNICATION,
 	URGENT_COMMUNICATION,
 }
+
 enum ModularStructureType{
 	NONE,
 	FLOOR,
@@ -17,6 +18,7 @@ enum ModularStructureType{
 	WALL_2,
 	PILLAR,
 	INTERIOR_MODULE,
+	BLOCK,
 }
 
 enum CompassDirection{
